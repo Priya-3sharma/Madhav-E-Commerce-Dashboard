@@ -58,5 +58,5 @@ Vibrant, dark-themed visual with high contrast.
 Balanced use of bar and donut charts for categorical and quantitative insights.
 Efficient layout of KPIs and visuals for quick consumption.
 
-Screenshot :- [https://github.com/Priya-3sharma/Madhav-E-Commerce-Dashboard](https://github.com/Priya-3sharma/Madhav-E-Commerce-Dashboard/blob/main/Madhav%20E%20Commerce%20Dashboard.png)
-
+Screenshot :- [[https://github.com/Priya-3sharma/Madhav-E-Commerce-Dashboard](https://github.com/Priya-3sharma/Madhav-E-Commerce-Dashboard/blob/main/Madhav%20E%20Commerce%20Dashboard.png)
+](https://github.com/Priya-3sharma/Madhav-E-Commerce-Dashboard/blob/main/Madhav%20E%20Commerce%20Dashboard.png)
